@@ -24,10 +24,8 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-This project is a small project whic is url shortenning webservice which you give a long url and get the short one that redirect you to the original.
+## Description of the project
+This project was built with [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. the project is url shortenning webservice which you give a long url and get the short one that redirect you to the original.
 
 ## Installation
 
